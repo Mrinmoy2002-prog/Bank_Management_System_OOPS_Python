@@ -28,3 +28,14 @@ Bank Management System OOPS/
 ├── main.py             # User Interface execution menus and testing runtime
 ├── modifie_code.py     # Core Bank class component holding backend logic
 └── data.json           # Secure data serialization matrix
+```
+
+## 💻 Installation & Usage
+Clone the repository:
+  Bash
+    git clone [https://github.com/your-username/Bank-Management-System-OOPS.git](https://github.com/your-username/Bank-Management-System-OOPS.git)
+    cd "Bank Management System OOPS"
+    
+Run the application interface:
+  Bash
+    python main.py
